@@ -6,6 +6,16 @@ I am Muhammad Huzaifa Zahid, an iOS Developer (specializing in SwiftUI Applicati
  PDFKit | CoreLocation | MapKit | AVFoundation | Charts 
  Firebase Auth | Firebase Firestore | Firebase Storage | StreamChat | FLAnimatedImage
  SwiftSoup | Agora | CarBode
+
+## Ongoing Projects
+ * [CRM](https://github.com/MuhammadHuzaifaZahid/CRM)
+ * [OPR](https://github.com/MuhammadHuzaifaZahid/OPR)
+ * [Supperclub](https://github.com/MuhammadHuzaifaZahid/Supperclub)
+
+## Completed Projects
+ * [Cleopatra](https://github.com/MuhammadHuzaifaZahid/Cleopatra)
+ * [Cancel Tyranny](https://github.com/MuhammadHuzaifaZahid/Cancel-Tyranny)
+   
 <!--
 **MuhammadHuzaifaZahid/MuhammadHuzaifaZahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
