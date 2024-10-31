@@ -1,4 +1,4 @@
-My name is Muhammad Huzaifa Zahid, an iOS Developer (specializing in SwiftUI Applications) having experience of 2 year and 6 months. I have honed my skills in iOS development, possessing a strong command of Swift and SwiftUI. My expertise extends to various frameworks such as MapKit, AVKit, PDFKit, WebKit, Charts and SwiftData. I am adept at integrating APIs using URLSession and leveraging external solutions like Firebase, Agora and StreamChat.
+My name is Muhammad Huzaifa Zahid, an iOS Developer (specializing in SwiftUI Applications) having experience of 2 years and 6 months. I have honed my skills in iOS development, possessing a strong command of Swift and SwiftUI. My expertise extends to various frameworks such as MapKit, AVKit, PDFKit, WebKit, Charts and SwiftData. I am adept at integrating APIs using URLSession and leveraging external solutions like Firebase, Agora and StreamChat.
 
 ## Tools & Technologies Used
  Xcode | SwiftUI | Swift | AVKit |  WebKit 
